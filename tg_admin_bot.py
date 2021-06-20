@@ -3,7 +3,7 @@
 # Kutubxonani yuklash: pip install pyTelegramBotAPI
 from telebot import TeleBot
 
-bot = TeleBot("1687352369:AAH85moM8Qe2u7-dt1V7NvtPwf3CHP8EFac")
+bot = TeleBot("1687562369:AH85M8u7-t1V7NvtPwf3CHPc")
 
 	admin = "1234567890" # bu joyga oz Telegram ID'ingizni kiritib qoying
 	
